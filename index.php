@@ -15,5 +15,15 @@
         <h1>My Second Blog</h1>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, quisquam quam illum veritatis voluptates quia repellendus quod placeat, cupiditate quidem optio, quae eveniet id. Soluta numquam cum minima facilis velit?</p>
     </div>
+    <div>
+        <h1>My Third Blog</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, quisquam quam illum veritatis voluptates quia repellendus quod placeat, cupiditate quidem optio, quae eveniet id. Soluta numquam cum minima facilis velit?</p>
+        <h3>Git Three Step Page Add</h3>
+        <ul>
+            <li>git add .</li>
+            <li>git commit -m "My Commit"</li>
+            <li>git push</li>
+        </ul>
+    </div>
 </body>
 </html>
