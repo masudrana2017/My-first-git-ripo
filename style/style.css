@@ -228,3 +228,17 @@ padding: 0;
 input{
     padding: 10px;
 }
+.footer{
+    background-color: black;
+    height: 300px;
+}
+.address{
+
+}
+.contractarea{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+}
