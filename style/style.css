@@ -7,7 +7,7 @@ padding: 0;
     margin-right: auto;
 }
 .header{
-    background-image: linear-gradient(rgba(255, 255, 255, 0.068), rgb(18, 17, 17)), url("../images/Banner\ Image.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0, 0)), url("../images/Banner\ Image.png");
     width: 1150px;
     height: 600px;
     margin-left: auto;
@@ -29,13 +29,22 @@ padding: 0;
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 .disconunt p{
    font-family: 'Inter', sans-serif;
+   font-size: 24px;
 }
 .disconunt h1{
     margin-bottom: 15px;
     color: #FF0000;
+}
+.discountop h1{
+    font-size: 72px;
+    font-family: 'Merriweather', serif;
+}
+.holyday{
+    color: #FF0000;  
 }
 .discountimage{
     width: 400px;
@@ -186,6 +195,22 @@ padding: 0;
 .portfoliodiv{
     width: 70%;
 }
+.portfoliodiv h1{
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+}
+.portfoliodiv p{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+.gift{
+    color: #FF0000;
+    font-family:'Inter', sans-serif;
+
+}
+.portfolio_top{
+    margin-bottom: 20px;
+}
 .portfolio_bottom{
     width: 1150px;
     margin-left: auto;
@@ -202,7 +227,7 @@ padding: 0;
 
 .subscriber{
     width: 1150px;
-    height: 400px;
+    height: 500px;
     margin-left: auto;
     margin-right: auto;
     background:linear-gradient(rgb(236, 177, 177), rgb(212, 204, 199));
@@ -219,6 +244,13 @@ padding: 0;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
+}
+.subcriberdiv h1{
+    margin-bottom: 20px;
+}
+.subcriberdiv p{
+    margin-bottom: 20px;
 }
 .buttonsubscriber{
   padding: 10px;
@@ -226,6 +258,9 @@ padding: 0;
   border-bottom-right-radius: 50px;
   background-color: #FF0000;
   border: none;
+  color: #FFFFFF;
+  font-family:'Inter', sans-serif;
+  font-weight: bold;
 }
 input{
     padding: 10px;
