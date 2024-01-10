@@ -39,9 +39,17 @@ padding: 0;
     margin-bottom: 15px;
     color: #FF0000;
 }
+.wish{
+    position: relative;
+    top: 150px;
+}
 .discountop h1{
     font-size: 72px;
     font-family: 'Merriweather', serif;
+}
+.discount1{
+    position:relative;
+    left: 180px;
 }
 .holyday{
     color: #FF0000;  
